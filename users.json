@@ -1,0 +1,17 @@
+[
+  {
+    "name": "zhang",
+    "email": "zhang@qq.com",
+    "password": "aaa"
+  },
+  {
+    "name": "wang",
+    "email": "wang@qq.com",
+    "password": "123"
+  },
+  {
+    "name": "li",
+    "email": "li@qq.com",
+    "password": "321"
+  }
+]
